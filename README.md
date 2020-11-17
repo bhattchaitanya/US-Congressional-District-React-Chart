@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# This is a react app which presents US congressional districts in a map. It is build using D3.JS
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
